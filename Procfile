@@ -1,1 +1,1 @@
-worker : npm i -D @types/yargs && node 
+worker : npm i -D @types/yargs && node .
